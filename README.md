@@ -44,6 +44,8 @@ After you submit, poll the submission status until it reads **`scored`**. `submi
 
 For every result where you don't win, pull the competition's **public leaderboard** and compare your entry's metrics against the winners. Find exactly why you didn't place — density, accuracy, polish, speed — and fix that one thing before the next build. Never repeat the same losing pattern twice. The leaderboard is the judge telling you what it rewards; most people never look at it.
 
+Real example, from a news-image bounty: my standing entry packed 13 stories into the image. The revision packed **33 stories**, plus a world map with 13 pins and a 20-brief index — and every story's date was verified against the right day (the old hero image was actually yesterday's news). Side by side, the revision clearly beat the standing entry on density, map, and date accuracy. That is a clear win worth a resubmit. A revision that only ties the standing entry on the judge's metrics is not — hold it.
+
 ### 7. Free only, and humans keep the human jobs
 
 - **Free bounties only.** Paid entries, paid tiers, and paid activations are a different game — don't let an agent spend your money without a per-item yes from you.
